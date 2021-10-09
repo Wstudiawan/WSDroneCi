@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-export KERNEL_NAME=Finix-Kernel-CLANG
+export KERNEL_NAME=PBNS
 
 # Main Declaration
 KERNEL_ROOTDIR=$(pwd)/$DEVICE_CODENAME # IMPORTANT ! Fill with your kernel source root directory.
